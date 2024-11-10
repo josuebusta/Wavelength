@@ -1,5 +1,3 @@
-- Download the .zip file and unzip it.
-
 - Run 'npm install express mongoose bcryptjs jsonwebtoken dotenv' in the integrated terminal for 'backend'
 
 - Run 'npm install axios' in the integrated terminal for 'frontend/client'
